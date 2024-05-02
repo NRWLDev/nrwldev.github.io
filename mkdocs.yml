@@ -1,8 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 site_name: Narwhal
 site_url: https://nrwl.co
-# repo_name: fastapi-problem
-# repo_url: https://github.com/NRWLDev/fastapi-problem
 nav:
   - index.md
 theme:
@@ -11,20 +9,6 @@ theme:
   icon:
     logo: fontawesome/solid/fish-fins
     repo: fontawesome/brands/git-alt
-  # features:
-  #   - navigation.instant
-  #   - navigation.instant.progress
-  #   - navigation.sections
-  #   - navigation.tracking
-  #   - toc.follow
-# markdown_extensions:
-#   - pymdownx.highlight:
-#       anchor_linenums: true
-#       line_spans: __span
-#       pygments_lang_class: true
-#   - pymdownx.inlinehilite
-#   - pymdownx.snippets
-#   - pymdownx.superfences
 extra:
   social:
     - icon: fontawesome/solid/envelope
