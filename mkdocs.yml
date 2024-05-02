@@ -9,7 +9,7 @@ theme:
   name: material
   favicon: favicon.svg
   icon:
-    logo: favicon.svg
+    logo: fontawesome/light/fish-fins
     repo: fontawesome/brands/git-alt
   # features:
   #   - navigation.instant
