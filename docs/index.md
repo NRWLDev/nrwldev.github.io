@@ -10,8 +10,14 @@
       conjunction with
       [bump-my-version](https://github.com/callowayproject/bump-my-version) to
       generate changelogs and create release tags.
+* [starlette-problem](https://nrwldev.github.io/starlette-problem)
+    * A set of exceptions and handlers for use in Starlette applications to
+      support easy error management and responses. Each exception easily
+      marshals to JSON based on the
+      [RFC9457](https://www.rfc-editor.org/rfc/rfc9457.html) spec for use in
+      api error responses.
 * [fastapi-problem](https://nrwldev.github.io/fastapi-problem)
-    * A set of exceptions and handlers for use in fastapi applications to
+    * A set of exceptions and handlers for use in FastAPI applications to
       support easy error management and responses. Each exception easily
       marshals to JSON based on the
       [RFC9457](https://www.rfc-editor.org/rfc/rfc9457.html) spec for use in
