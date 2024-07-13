@@ -6,10 +6,8 @@
       Pogo supports migrations written in raw sql, as well as python files
       (useful when data needs to be migrated).
 * [changelog-gen](https://nrwldev.github.io/changelog-gen)
-    * A conventional commit CHANGELOG generator intended to be used in
-      conjunction with
-      [bump-my-version](https://github.com/callowayproject/bump-my-version) to
-      generate changelogs and create release tags.
+    * A CHANGELOG generator, to detect semantic versioning changes
+      from conventional commits, and generate release tags.
 * [starlette-problem](https://nrwldev.github.io/starlette-problem)
     * A set of exceptions and handlers for use in Starlette applications to
       support easy error management and responses. Each exception easily
