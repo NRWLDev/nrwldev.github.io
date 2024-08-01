@@ -20,3 +20,5 @@
       marshals to JSON based on the
       [RFC9457](https://www.rfc-editor.org/rfc/rfc9457.html) spec for use in
       api error responses.
+* [auth-aws4](https://nrwldev.github.io/auth-aws4)
+    * A usecase agnostic implementation of [AWS4 Sig v4](https://docs.aws.amazon.com/AmazonS3/latest/API/sig-v4-authenticating-requests.html).
