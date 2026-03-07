@@ -8,6 +8,9 @@
 * [changelog-gen](https://nrwldev.github.io/changelog-gen)
     * A CHANGELOG generator, to detect semantic versioning changes
       from conventional commits, and generate release tags.
+* [bumpversion-slim](https://nrwldev.github.io/bumpversion-slim)
+    * A lightweight version release management tool, designed for use with
+      git-cliff.
 * [starlette-problem](https://nrwldev.github.io/starlette-problem)
     * A set of exceptions and handlers for use in Starlette applications to
       support easy error management and responses. Each exception easily
